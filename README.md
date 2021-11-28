@@ -1,8 +1,6 @@
 # iAP Fake
 
 Ứng dụng này tôi làm free không tính tiền như các bên khác nếu thấy hay hãy donate cho tôi, để tôi có động lực làm thêm
-Momo
-SĐT: 0798947793
 
 Paypal
 Tài khoản: paypal.me/TienPD3
