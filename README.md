@@ -9,3 +9,4 @@ https://paypal.me/TienPD3?country.x=VN&locale.x=vi_VN
 # iAP Fake QuantumultX
 
 https://raw.githubusercontent.com/TienPD3/iAPFake/main/iAPFake.conf
+https://raw.githubusercontent.com/TienPD3/iAPFake/main/iAPFakePremium.conf
